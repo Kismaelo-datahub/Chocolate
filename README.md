@@ -8,7 +8,7 @@ This project demonstrates data modeling, KPI design, DAX measures, and user-cent
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.jpeg) 
 
 ---
 
@@ -65,21 +65,7 @@ AVERAGEX(
 - Time Intelligence Functions  
 - Interactive Filtering  
 
----
 
-## 📂 Repository Structure
-
-\`\`\`
-├── data/
-│   └── Chocolate Sales.csv
-├── reports/
-│   ├── ChocolateSales.pbix
-│   └── ChocolateSales.pbit
-├── images/
-│   ├── dashboard_overview.png
-│   └── ChocolateSales.pdf
-└── README.md
-\`\`\`
 
 ---
 
